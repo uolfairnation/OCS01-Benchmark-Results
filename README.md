@@ -18,4 +18,5 @@ Total duration: 2602 seconds
 SHA-256 (log): d750e3fa2665985c115b0ad058540105fa6479b0eaeaab75313d4a5fa3c3b010
 
 File: benchmark2.log
+
 Wallet: octD9nbSsz6yC9zTMsy4m7RLoMs2n7HLjXsVfs6T5m53WTV
